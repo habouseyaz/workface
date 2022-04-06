@@ -1,0 +1,95 @@
+*{
+    padding: 0%;
+}
+header{
+    background-color: #3B5797;
+}
+h1{
+    color: white;
+        width:10px;
+        min-width:320px;
+        flex:left;
+        justify-content: center;
+        text-shadow: 1px black;
+        height: 30px;
+        margin-left: 15ww%;
+}
+.head .header{
+    background-color: #3B5797;
+}
+
+.email, .pass, .log
+{
+    display: flex;
+}
+.email, .pass{
+    display: flex;
+    display: inline-block;
+}
+.lo{
+    background-color: blue;
+    color: white;
+    height: 40%;
+}
+ input
+{
+display: flex;
+}
+h4
+{
+    color: white;
+}
+section
+{
+    margin-left: 80px;
+}
+.Q
+{
+    display: flex;
+}
+.S
+{
+    display: flex;
+}
+.d
+{
+    display: flex;
+}
+ section
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.in{
+    display: inline-block;
+}
+.Sign
+{
+    margin: 100%;
+    
+}
+.ra
+{
+    display: inline-flex;
+}
+button{
+    color: white;
+
+}
+.b
+{ 
+margin-top: 16%;
+    margin-bottom:50% ;
+}
+body{
+    margin-right: 0%;
+    margin-left: 0%;
+}
+.f{
+
+   font-size: 50px;
+}
+.email{
+    margin-left:50%;
+}
